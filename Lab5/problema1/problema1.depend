@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667903137 source:e:\facultate\pclp\probleme\c++\laborator5\problema1\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+
